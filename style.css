@@ -1,0 +1,163 @@
+#firp {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background: -webkit-linear-gradient(#03FCED, #03FCB4);
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.imgg {
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+    transition: 0.6s;
+}
+
+.imgg:hover {
+    height: 15%;
+    width: 15%;
+    border-radius: 70%;
+    transition: 0.6s;
+}
+
+#des {
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    transition: 0.6s;
+    color: orangered;
+    background: rgba(255, 255, 255, 1);
+}
+
+#des:hover {
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    margin: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    transition: 0.6s;
+}
+
+#dfdf {
+    font-family: cursive;
+    font-size: 70px;
+    text-align: center;
+    color: orangered;
+    background: rgba(255, 255, 255, 1);
+}
+
+.toolss {
+    background-color: dimgrey;
+    padding: 40px;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+button,
+links {
+    background-color: chartreuse;
+    color: red;
+    height: 100%;
+    font-size: 25px;
+    transition: 0.6s;
+
+}
+
+
+
+
+
+
+
+
+
+
+button:hover {
+    background-color: aqua;
+    transition: 0.6s;
+}
+
+
+
+
+
+
+
+
+
+
+.fgfg {
+    background-color: #FBFF00;
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    transition: 0.5s;
+
+}
+
+
+
+
+
+.fgfg:hover {
+    background-color: #00FFC9;
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    transition: 0.5s;
+    color: red;
+
+}
+
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+    background-image: url("./back.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+iframe {
+    width: 100%;
+}
+
+.insta h3 {
+    font-family: cursive;
+    display: inline;
+    color: aqua;
+    text-decoration: underline;
+}
+
+
+
+#contact {
+    background: linear-gradient(#F23CEA 0%, #F23C44 100%);
+    width: 100%;
+}
+
+form {
+    text-align: center;
+    color: orangered;
+    background: rgba(255, 255, 255, 1);
+}
+
+h1 {
+    color: orangered;
+    background: rgba(255, 255, 255, 1);
+}
